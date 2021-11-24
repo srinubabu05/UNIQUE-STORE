@@ -1,0 +1,151 @@
+/* .myDiv{
+    
+    background-color: brown;
+    
+}
+*/
+
+.topNav{
+    background-origin: 5px;
+    overflow: hidden;
+    background-color:rgb(238, 30, 30);
+    
+    
+}
+
+.topNav a{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topNav a:hover{
+    background-color: brown; 
+    color:cornsilk;
+    
+}
+
+.topNav a.active{
+background-color: crimson;
+color: white;
+}
+/*
+.clr{
+    text-decoration-color: tomato;
+}
+
+#parent{
+    display: flex;
+}
+
+.col{
+    color: white;
+    height: 70px;
+    padding: 10px;
+    flex: 50%;
+    border: 5px;
+    border-color: thistle;
+} */
+
+
+
+
+
+
+body{
+    padding:30px;
+    background-color: rgb(119, 173, 243);
+    
+}
+.Maincontainer{
+    color: white;
+    background:white;
+    display: flex;
+    margin:auto;
+
+}
+img {
+    max-width: 100%
+    
+}
+.image {
+    flex-basis: 15%
+
+}
+.text {
+    font-size: 15px;
+    
+}
+.text p:first-of-type {
+    font-size: 25px;
+    text-align: left;
+}
+
+.topNav {
+    margin: auto;
+}
+.search{
+    margin-left: auto;
+
+}
+.main {
+    background-color: white;
+    padding: 10px;
+}
+.welcome {
+    color: rgb(115, 170, 253);
+    display: flex;
+    margin:auto;
+    justify-content: center;
+    align-items: center;
+}
+.camp {
+    color: rgb(110, 154, 236);
+    display: flex;
+    margin:auto;
+    justify-content: center;
+    align-items: center;
+}
+.imgtext1 {
+    color: rgb(5, 5, 5);
+    padding: 10px;
+}
+.imgtext2 {
+    color: black;
+    padding: 10px;
+}
+
+.img1 {
+    max-width: 100%
+    
+}
+.img1 {
+    flex-basis: 100%
+
+}
+.img2 {
+    max-width: 100%
+    
+}
+.img2 {
+    flex-basis: 100%
+
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
